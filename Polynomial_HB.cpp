@@ -1,5 +1,5 @@
-// Assignment 1 
-// Harman Brar(301293707) CMPT 129
+// Bisection Method
+// Harman Brar
 // Completed Feb/19/2021
 #include <iostream>
 #include <iomanip>
